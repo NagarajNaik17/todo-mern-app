@@ -32,3 +32,7 @@ To run this application on your local machine, follow the steps below.
 
    ```bash
    git clone https://github.com/yourusername/todo-mern-app.git
+
+### Output 
+![image](https://github.com/user-attachments/assets/7e851e63-5d74-4877-ae3b-8e0bfcf54330)
+
